@@ -1,0 +1,16 @@
+train: D:\internship\numberplate\dataset\train
+val: D:\internship\numberplate\dataset\val
+
+nc: 1
+names: [ "number_plate" ]
+
+
+
+
+
+
+
+
+
+
+
